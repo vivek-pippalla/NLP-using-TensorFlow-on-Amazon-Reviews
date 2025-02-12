@@ -1,5 +1,4 @@
 # NLP-using-TensorFlow-on-Amazon-Reviews
-# **NLP Using TensorFlow on Amazon Reviews**
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-TensorFlow-orange)
 ![NLP](https://img.shields.io/badge/NLP-Text_Analysis-blue)
