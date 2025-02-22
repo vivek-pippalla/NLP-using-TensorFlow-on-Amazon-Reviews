@@ -65,8 +65,7 @@ This project demonstrates how sentiment analysis can be applied to Amazon review
 
 ## Summary
 
-1. **Input**: The dataset consists of Amazon product reviews containing text descriptions and overall ratings.
-2. **Processing**: The reviews are cleaned, preprocessed, and transformed into numerical features. A deep learning model is trained to classify sentiment.
-3. **Output**: The model predicts whether a review is positive or negative and provides sentiment insights for further analysis.
+## 1. **Input**: The dataset consists of Amazon product reviews containing text descriptions and overall ratings.
+## 2. **Processing**: The reviews are cleaned, preprocessed, and transformed into numerical features. A deep learning model is trained to classify sentiment.
+## 3. **Output**: The model predicts whether a review is positive or negative and provides sentiment insights for further analysis.
 
-"# NLP-using-TensorFlow-on-Amazon-Reviews" 
