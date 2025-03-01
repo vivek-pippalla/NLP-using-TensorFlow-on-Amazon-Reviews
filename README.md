@@ -3,11 +3,11 @@
 ## CSD TEAM – 15
 ## Team Members
 
-Pippalla Vivek (Team Lead)
-Porapu Sahith
-Panga Pavan
-Anusuri Tarun Raj Kumar
-Atikala Jayenddra Naga Bhasakar
+- Pippalla Vivek (Team Lead)
+- Porapu Sahith
+- Panga Pavan
+- Anusuri Tarun Raj Kumar
+- Atikala Jayenddra Naga Bhasakar
 
 
 ## Introduction
