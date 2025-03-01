@@ -38,6 +38,7 @@ Sentiment analysis of Amazon reviews has various practical applications, includi
 
 ### 1. Data Collection
    - Load the dataset containing Amazon product reviews.
+   - Dataset: https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews?select=train.csv
    - Clean and preprocess the dataset by handling missing values.
 
 ### 2. Data Preprocessing
