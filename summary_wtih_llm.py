@@ -2,7 +2,7 @@ import ollama
 
 def generate_summary(text):
     """
-    Generate a short keyphrase-style summary using Phi-3 Mini via Ollama.
+    Generate a short keyphrase-style summary using llama3.2 via Ollama.
     """
     prompt = (
         "Summarize the following product review in **5 to 10 words**, like a quick headline or keyword list.\n"
