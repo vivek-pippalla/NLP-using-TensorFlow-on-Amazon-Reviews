@@ -1,5 +1,9 @@
 ## NLP-using-TensorFlow-on-Amazon-Reviews
-
+## Recent changes: 
+* Integrated LLaMA 3.2 (via Ollama) for improved review summarization and aspect-based sentiment analysis, replacing the previous T5-base summarizer, spaCy + lexicon-based aspect extractor, and DistilBERT-based aspect clause-level sentiment classifier.
+* prevously->absa.py and summary.py
+* now->absawithllm.py and summarywithllm.py
+  
 ## Introduction
 
 Sentiment Analysis of Amazon Reviews is an NLP task that involves analyzing customer feedback to determine sentiment polarity (positive or negative). This project aims to extract insights from Amazon reviews using deep learning and NLP techniques. Sentiment analysis is widely used in e-commerce, marketing, and customer feedback analysis to enhance business decision-making.
@@ -61,7 +65,5 @@ This project demonstrates how sentiment analysis can be applied to Amazon review
 ## 1. **Input**: The dataset consists of Amazon product reviews containing text descriptions and overall ratings.
 ## 2. **Processing**: The reviews are cleaned, preprocessed, and transformed into numerical features. A deep learning model is trained to classify sentiment.
 ## 3. **Output**: The model predicts whether a review is positive or negative and provides sentiment insights for further analysis.
-![Screenshot 2025-04-11 134950](https://github.com/user-attachments/assets/b9d588a1-3878-4801-bfcd-6f26312726d4)
-
-
+![Screenshot 2025-07-02 124752](https://github.com/user-attachments/assets/99650dc9-68c7-403a-b058-9b4c1a7ad84f)
 
