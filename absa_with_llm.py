@@ -4,7 +4,7 @@ import re
 def aspect_based_sentiment_llm(review_text):
     """
     Use a local LLM (e.g., phi3:mini or mistral:instruct) to extract aspects and their sentiment
-    from a review. Output is a Python dict like your old code: {aspect: sentiment}.
+    from a review. If not use via API key of any LLM
     """
     prompt = f"""
 You're a sentiment analysis expert.
