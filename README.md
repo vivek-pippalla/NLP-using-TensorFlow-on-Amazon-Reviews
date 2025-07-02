@@ -1,7 +1,7 @@
 ## NLP-using-TensorFlow-on-Amazon-Reviews
 ## Recent changes: 
 * Integrated LLaMA 3.2 (via Ollama) for improved review summarization and aspect-based sentiment analysis, replacing the previous T5-base summarizer, spaCy + lexicon-based aspect extractor, and DistilBERT-based aspect clause-level sentiment classifier.
-* prevously->absa.py and summary.py
+* prevously used files->absa.py and summary.py
 * now->absa_with_llm.py and summary_with_llm.py
 ## Introduction
 
