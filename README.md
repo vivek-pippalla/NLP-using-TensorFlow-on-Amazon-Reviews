@@ -2,7 +2,6 @@
 ## New Repo is created which is better version of this project. 
 * Here is the link for it : https://github.com/vivek-pippalla/amazon-review-sentiment-absa
 * So checkout and pull which one you prefer(I'm keeping this project just to keep this files alive so that I can use if needed in future
-* 
 ## Recent changes: 
 * Integrated LLaMA 3.2 (via Ollama) for improved review summarization and aspect-based sentiment analysis, replacing the previous T5-base summarizer, spaCy + lexicon-based aspect extractor, and DistilBERT-based aspect clause-level sentiment classifier.
 * prevously used files->absa.py and summary.py
